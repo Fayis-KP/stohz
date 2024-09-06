@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884488582323",
+    "project_id": "stohz-20a9c",
+    "storage_bucket": "stohz-20a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884488582323:android:859e8b5193bdf1634b2cc6",
+        "android_client_info": {
+          "package_name": "com.example.stohz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMwbk0NtO00LpWg_WPSgPo10NpeA4-4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
